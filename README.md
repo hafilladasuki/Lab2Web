@@ -1,4 +1,4 @@
-<img width="950" height="586" alt="Screenshot 2025-09-30 210954" src="https://github.com/user-attachments/assets/8c3cb931-da04-4f20-a06a-e81c611046d7" /># Lab2Web
+# Lab2Web
 
 # 1. Membuat dokumen HTML
 <p>Langkah awal kita mulai dari bikin file HTML dulu. Ini file dasar yang nanti bakal jadi tempat kita nyambungin CSS.</p>
