@@ -63,11 +63,38 @@
 <p><img width="845" height="305" alt="Screenshot 2025-09-30 211220" src="https://github.com/user-attachments/assets/751862b2-fcc0-410d-a26a-0dfe0b8a367a" />
 </p>
 
+<b>1. Eksperimen Properti CSS</b>
+<p>Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.</p>
+<p>Contohnya:</p>
+<p><img width="804" height="634" alt="tugas 1" src="https://github.com/user-attachments/assets/db76d970-92f2-4a85-a9b6-17c72b0d47a2" />
+</p>
+<p>Hasilnya:</p>
+<p><img width="967" height="557" alt="tugas 1 2" src="https://github.com/user-attachments/assets/18b11440-8273-4426-824f-312317585680" />
+</p>
+<b>2. Perbedaan h1 {…} dengan #intro h1 {…}</b>
+<p>h1 {…} → berlaku ke semua elemen <h1> di halaman.</p>
+<p>#intro h1 {…} → hanya berlaku untuk <h1> yang ada di dalam elemen dengan ID intro</p>
+<b>3. Prioritas CSS (Internal, Eksternal, Inline)</b>
+<p>Contoh code:</p>
+<p><img width="1248" height="672" alt="tugas 3" src="https://github.com/user-attachments/assets/9dc945cf-50c2-45d5-868f-4f62f75837ce" />
+</p>
+<p>Hasil Code: </p>
+<p><img width="736" height="511" alt="tugas 3 2" src="https://github.com/user-attachments/assets/9b5fd55d-fa64-4ba3-80db-68bcf2868f3b" />
+</p>
+<b>4. Jika Elemen Punya ID dan Class</b>
+<p>Kalau elemen punya ID dan Class sekaligus, ID lebih kuat daripada Class.</p>
+<p>Contoh kode di HTML:</p>
+<p><img width="558" height="596" alt="tugas 4 2" src="https://github.com/user-attachments/assets/f1018597-41dd-4a16-a807-2f92d4e4ed67" />
+</p>
+<p>Contoh code di CSS</p>
+<p><img width="1050" height="520" alt="tugas 4 3" src="https://github.com/user-attachments/assets/af77a896-05ca-4e4c-90ae-2bc29ccaaead" />
+</p>
+<p>Hasil dari Chorom:</p>
+<p><img width="965" height="672" alt="Tugas 4" src="https://github.com/user-attachments/assets/3e4348a2-7752-459d-8115-66968674a3ed" />
+</p>
+<p>Hasil: teks merah, karena aturan ID mengalahkan Class.</p>
 
-
-
-
-
+# SELESAI
 
 
 
